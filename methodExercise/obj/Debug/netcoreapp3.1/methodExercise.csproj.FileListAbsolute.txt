@@ -1,0 +1,13 @@
+C:\Users\Mark\OneDrive\Desktop\repos\methodsExercise\methodExercise\methodExercise\bin\Debug\netcoreapp3.1\methodExercise.exe
+C:\Users\Mark\OneDrive\Desktop\repos\methodsExercise\methodExercise\methodExercise\bin\Debug\netcoreapp3.1\methodExercise.deps.json
+C:\Users\Mark\OneDrive\Desktop\repos\methodsExercise\methodExercise\methodExercise\bin\Debug\netcoreapp3.1\methodExercise.runtimeconfig.json
+C:\Users\Mark\OneDrive\Desktop\repos\methodsExercise\methodExercise\methodExercise\bin\Debug\netcoreapp3.1\methodExercise.runtimeconfig.dev.json
+C:\Users\Mark\OneDrive\Desktop\repos\methodsExercise\methodExercise\methodExercise\bin\Debug\netcoreapp3.1\methodExercise.dll
+C:\Users\Mark\OneDrive\Desktop\repos\methodsExercise\methodExercise\methodExercise\bin\Debug\netcoreapp3.1\methodExercise.pdb
+C:\Users\Mark\OneDrive\Desktop\repos\methodsExercise\methodExercise\methodExercise\obj\Debug\netcoreapp3.1\methodExercise.csprojAssemblyReference.cache
+C:\Users\Mark\OneDrive\Desktop\repos\methodsExercise\methodExercise\methodExercise\obj\Debug\netcoreapp3.1\methodExercise.AssemblyInfoInputs.cache
+C:\Users\Mark\OneDrive\Desktop\repos\methodsExercise\methodExercise\methodExercise\obj\Debug\netcoreapp3.1\methodExercise.AssemblyInfo.cs
+C:\Users\Mark\OneDrive\Desktop\repos\methodsExercise\methodExercise\methodExercise\obj\Debug\netcoreapp3.1\methodExercise.csproj.CoreCompileInputs.cache
+C:\Users\Mark\OneDrive\Desktop\repos\methodsExercise\methodExercise\methodExercise\obj\Debug\netcoreapp3.1\methodExercise.dll
+C:\Users\Mark\OneDrive\Desktop\repos\methodsExercise\methodExercise\methodExercise\obj\Debug\netcoreapp3.1\methodExercise.pdb
+C:\Users\Mark\OneDrive\Desktop\repos\methodsExercise\methodExercise\methodExercise\obj\Debug\netcoreapp3.1\methodExercise.genruntimeconfig.cache
